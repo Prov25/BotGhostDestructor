@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["DESTRUCTOR 1.0 BOT | By Drake","Creato Da Prov_25"];
+const statusMessages = ["VANQUEST NO WL BOT","Creato Da Prov_25"];
 
 
 let currentIndex = 0;
